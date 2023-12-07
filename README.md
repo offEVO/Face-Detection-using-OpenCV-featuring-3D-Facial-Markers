@@ -27,7 +27,7 @@ This is what the Final application will look like ↓↓↓
 
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/03ad87c8-4ade-4dca-ae92-87ca79a5507f)
 ___________________________________________________________________________________________________________________________________________
-                                                               #FEATURES
+                                                              # FEATURES
 ___________________________________________________________________________________________________________________________________________
 
 Some of the features Consist of:
