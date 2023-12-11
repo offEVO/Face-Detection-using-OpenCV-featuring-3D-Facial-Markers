@@ -26,6 +26,8 @@ the end application will open up a camera popup and when it sees a face will add
 ___________________________________________________________________________________________________________________________________________
 
 Some of the features Consist of:
+- Facial detection
+- once a face is detected it starts recording
+- one no face is detected for 5 seconds then it stops recording
+- opens a camera application and offers preview
 _________________________________________________
-Can record when a face is detected ↓
-![image](https://github.com/offEVO/Face-Detection-using-OpenCV-featuring-3D-Facial-Markers/assets/140699812/9a4961f6-f54e-462d-830b-2c0f64e1b28b)
