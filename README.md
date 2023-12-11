@@ -22,8 +22,8 @@ ________________________________________________________________________________
 From there all you should need to do is paste the code in to the code editor of choice:
 
 the end application will open up a camera popup and when it sees a face will add all the landmarks andd things I meantioned earlyer.
-# FEATURES
 ___________________________________________________________________________________________________________________________________________
+# FEATURES
 
 Some of the features Consist of:
 - Facial detection
