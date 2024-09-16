@@ -10,7 +10,7 @@ This code is a facial detection piece of code that also has 3d landmark tracking
 In the main code file, you will see the code required for the application to work. It's pretty straightforward from there, but there are a few things you'll need..
 
 
-You must these dependancy's installed ↓↓↓
+You must have these dependancy's installed ↓↓↓
 
 ![image](https://github.com/offEVO/Face-Detection-using-OpenCV-featuring-3D-Facial-Markers/assets/140699812/e6caf7b3-f32d-4650-ae2b-bdc80f3c036b)
 
