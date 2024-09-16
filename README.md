@@ -28,6 +28,6 @@ ________________________________________________________________________________
 Some of the features Consist of:
 - Facial detection
 - once a face is detected it starts recording
-- one no face is detected for 5 seconds then it stops recording
+- once no face is detected for 5 seconds then it stops recording
 - opens a camera application and offers preview
 _________________________________________________
